@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Paul Wojcik!</h1>
-<img align="center" src="https://github.com/wojcikpawel/wojcikpawel/blob/master/Images/pw05.jpg">
+<img align="middle" src="https://github.com/wojcikpawel/wojcikpawel/blob/master/Images/pw06.jpg">
 <img src="https://github.com/wojcikpawel/wojcikpawel/blob/master/Images/pw04.jpg">
+
 
 <br />
 

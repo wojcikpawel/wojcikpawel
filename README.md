@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Paul Wojcik!</h1>
-<p align="center"><img src="https://github.com/wojcikpawel/wojcikpawel/blob/master/Images/pw07.jpg" width="620px" height="570px" /></p>
+<p align="center"><img src="https://github.com/wojcikpawel/wojcikpawel/blob/master/Images/pw07.jpg" width="620px" height="620px" /></p>
 
 <br />
 

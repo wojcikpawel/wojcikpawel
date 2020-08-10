@@ -1,9 +1,12 @@
 <h1 align="center">Hi, I'm Paul Wojcik!</h1>
-<img align="middle" src="https://github.com/wojcikpawel/wojcikpawel/blob/master/Images/pw07.jpg">
+<p align="center"><img src="https://github.com/wojcikpawel/wojcikpawel/blob/master/Images/pw07.jpg" width="678px" height="650px" /></p>
+
+<br />
+
+
 <img src="https://github.com/wojcikpawel/wojcikpawel/blob/master/Images/pw04.jpg">
 
 
-<br />
 
 ### Connect with me:
 

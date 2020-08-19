@@ -14,7 +14,7 @@
 
 
 
-### Contact with me:
+### Contact with me ✉️
 
 <img align="left" alt="codeSTACKr.com" width="46px" height="46px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 <a href="https://www.linkedin.com/in/pawel-wojcikk/" target="_blank"><img align="left" alt="LinkedIn" width="46px" height="46px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/> </a>
@@ -22,7 +22,7 @@
 <br />
 <br />
 
-### Languages and Tools:
+### Languages and Tools 🔧
 
 <img align="left" alt="HTML5" width="46px" height="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="46px" height="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />

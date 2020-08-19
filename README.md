@@ -8,11 +8,10 @@
 
 ### Hi there:
 
-- I'm currently working on something cool! 💼
-- I'm currently learning with help from [docs.github.com](https://docs.github.com/)
-- Ask me about GitHub
+-  💼 I'm currently working on something cool! 
+-  📚 I'm currently learning with help from [docs.github.com](https://docs.github.com/)
+-  ❓ Ask me about GitHub
 
-- đźŚ± Iâ€™m currently learning everything đź¤Ł
 
 
 ### Contact with me:
@@ -55,3 +54,5 @@
 
 
 <img align="left" alt="HTML5" width="46px" height="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+

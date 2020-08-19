@@ -6,9 +6,14 @@
 
 <img src="https://github.com/wojcikpawel/wojcikpawel/blob/master/Images/pw04.jpg">
 
+### Hi there:
+
+- I'm currently working on something cool!
+- I'm currently learning with help from [docs.github.com](https://docs.github.com/)
+- Ask me about GitHub
 
 
-### Connect with me:
+### Contact with me:
 
 <img align="left" alt="codeSTACKr.com" width="46px" height="46px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 <a href="https://www.linkedin.com/in/pawel-wojcikk/" target="_blank"><img align="left" alt="LinkedIn" width="46px" height="46px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/> </a>

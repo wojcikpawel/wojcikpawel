@@ -6,7 +6,7 @@
 
 <img src="https://github.com/wojcikpawel/wojcikpawel/blob/master/Images/pw04.jpg">
 
-### Hi there:
+### Hi there 👋
 
 -  💼 I'm currently working on something cool! 
 -  📚 I'm currently learning with help from [docs.github.com](https://docs.github.com/)

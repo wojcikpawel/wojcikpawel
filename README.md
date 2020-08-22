@@ -23,8 +23,10 @@
 <br />
 
 ### Languages and Tools 🔧
+[comment]: <> (This is a comment, it will not be included)
+[comment]: <> (<img align="left" alt="HTML5" width="46px" height="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />)
 
-<img align="left" alt="HTML5" width="46px" height="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+
 <img align="left" alt="CSS3" width="46px" height="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="46px" height="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
@@ -44,6 +46,8 @@
 <img align="left" alt="Sass" width="46px" height="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
 
+
+
 <img align="left" alt="Gatsby" width="46px" height="46px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
 <img align="left" alt="GraphQL" width="46px" height="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 
@@ -54,8 +58,3 @@
 
 
 <img align="left" alt="HTML5" width="46px" height="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-
-[comment]: <> (This is a comment, it will not be included)
-
-

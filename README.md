@@ -62,7 +62,7 @@
   <br>
   Visitor count<br>
   <br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://github.com/wojcikpawel/wojcikpawel/blob/master/Images/count.svg" />
 </p>
 
 

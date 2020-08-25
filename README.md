@@ -54,6 +54,16 @@
 [comment]: <> (This is a comment, it will not be included)
 
 
+<p align="center"> 
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  Visitor count<br>
+  <br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
 
 
 

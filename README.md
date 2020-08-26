@@ -64,6 +64,8 @@
   Visitor count<br>
   <br>
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  
+ [comment]: <> (https://wojcik-pawel-counter.glitch.me/wojcikpawel/count.svg) 
 </p>
 
 

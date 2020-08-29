@@ -13,6 +13,10 @@
 -  💬 Ask me about GitHub
 -  ✎ I'm interested in UI/UX design
 
+### Hobbies 💡
+- 🏀 Basketball
+- 🚴 Cycling
+- 🏐 Beach Volleyball
 
 
 ### Contact with me ✉️

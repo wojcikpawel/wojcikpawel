@@ -24,6 +24,8 @@
 <img align="left" alt="codeSTACKr.com" width="46px" height="46px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 <a href="https://www.linkedin.com/in/pawel-wojcikk/" target="_blank"><img align="left" alt="LinkedIn" width="46px" height="46px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/> </a>
 
+[<img align="left" alt="wojcikpawel25" width="46px" height="46px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:wojcikpawel25@gmail.com)
+
 <br />
 <br />
 

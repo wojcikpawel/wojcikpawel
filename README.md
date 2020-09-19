@@ -26,6 +26,9 @@
 
 [<img align="left" alt="wojcikpawel25" width="46px" height="46px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:wojcikpawel25@gmail.com)
 
+
+<a href="https://www.freecodecamp.org/wojcikpawel" target="_blank"><img align="left" alt="freecodecamp" width="56px" height="56px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/freecodecamp.svg"/></a>
+
 <br />
 <br />
 

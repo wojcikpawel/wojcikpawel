@@ -19,6 +19,7 @@
 - 💪 Gym
 - 🏐 Beach Volleyball
 - 🏍️ 🚘 Automotive
+- 📚 Reading Books
 
 
 ### Contact with me ✉️

@@ -20,6 +20,7 @@
 - 🏐 Beach Volleyball
 - 🏍️ 🚘 Automotive
 - 📚 Reading Books
+- 🛶 Canoes
 
 
 ### Contact with me ✉️

@@ -19,8 +19,10 @@
 - 💪 Gym
 - 🏐 Beach Volleyball
 - 🏍️ 🚘 Automotive
-- 📚 Reading Books
+- 📚 Books
 - 🛶 Canoes
+- 🎧 Music
+- 🕺 Dancing
 
 
 ### Contact with me ✉️

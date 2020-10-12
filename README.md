@@ -92,12 +92,7 @@
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
-
-
 <p align="center"> 
-  <br>
-  <br>
-  <br>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=wojcikpawel&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&layout=default" />
  

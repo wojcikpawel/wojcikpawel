@@ -92,7 +92,18 @@
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
-[![Paweł Wójcik's github stats](https://github-readme-stats.vercel.app/api?username=wojcikpawel&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&layout=default)](https://github.com/wojcikpawel/github-readme-stats)
+
+
+<p align="center"> 
+  <br>
+  <br>
+  <br>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=wojcikpawel&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&layout=default" />
+ 
+</p>
+
+[comment]: <[![Paweł Wójcik's github stats](https://github-readme-stats.vercel.app/api?username=wojcikpawel&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&layout=default)](https://github.com/wojcikpawel/github-readme-stats)>
 
 [comment]: <More Information> (https://github.com/anuraghazra/github-readme-stats)
 

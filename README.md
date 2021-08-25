@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Paul Wojcik!</h1>
 <p align="center"><img src="https://github.com/wojcikpawel/wojcikpawel/blob/master/Images/pw07.jpg" width="620px" height="620px" /></p>
-<p align="center"><a href="https://app.daily.dev/wojcikpawel"><img src="https://api.daily.dev/devcards/44dff77aebfd48329cf5e04896800f7f.png?r=ct4" width="420" alt="Paweł Wójcik's Dev Card"/></a></p>
+<p align="center"><a href="https://app.daily.dev/wojcikpawel"><img src="https://api.daily.dev/devcards/44dff77aebfd48329cf5e04896800f7f.png?r=3hb" width="400" alt="Paweł Wójcik's Dev Card"/></a></p>
+
+
 
 <br />
 

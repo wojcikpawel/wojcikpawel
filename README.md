@@ -17,11 +17,9 @@
 -  ✎ I'm interested in UI/UX design
 
 ### Hobbies 💡
-- 🏀 Basketball
 - 🚴 Cycling
-- 💪 Gym
 - 🏐 Beach Volleyball
-- 🏍️ 🚘 Automotive
+- 💻 Coding & Programming
 - 📚 Books
 
 

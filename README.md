@@ -23,10 +23,6 @@
 - 🏐 Beach Volleyball
 - 🏍️ 🚘 Automotive
 - 📚 Books
-- 🛶 Canoes
-- 🎧 Music
-- 🕺 Dancing
-- 🏓 🎾 Table Tennis & Tennis
 
 
 ### Contact with me ✉️

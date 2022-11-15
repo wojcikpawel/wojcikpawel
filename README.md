@@ -113,3 +113,5 @@
 
 [comment]: <[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wojcikpawel&layout=default&bg_color=FFA07A)](https://github.com/wojcikpawel/github-readme-stats)> 
 
+### Support Me
+<a href="https://www.buymeacoffee.com/pracowniaprogramisty"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>

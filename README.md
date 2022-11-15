@@ -113,5 +113,7 @@
 
 [comment]: <[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wojcikpawel&layout=default&bg_color=FFA07A)](https://github.com/wojcikpawel/github-readme-stats)> 
 
-### Support Me
+### Support Me 💻
+<a href="https://buycoffee.to/pracowniaprogramisty" target="_blank"><img src="https://buycoffee.to/btn/buycoffeeto-btn-primary.svg" style="width: 200px" alt="Postaw mi kawę na buycoffee.to"></a>
 <a href="https://www.buymeacoffee.com/pracowniaprogramisty"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+

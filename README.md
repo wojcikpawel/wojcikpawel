@@ -117,6 +117,5 @@
 
 ### Support Me 💻
 <a href="https://buycoffee.to/pracowniaprogramisty" target="_blank"><img src="https://buycoffee.to/btn/buycoffeeto-btn-primary.svg" style="width: 200px" alt="Postaw mi kawę na buycoffee.to"></a>
-<a href="https://www.buymeacoffee.com/pracowniaprogramisty"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 <a href='https://ko-fi.com/pracowniaprogramisty' target='_blank'><img height='50' style='border:0px;height:50px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 

@@ -96,13 +96,10 @@
   <br>
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
   
- [comment]: <More Information> (https://wojcik-pawel-counter.glitch.me/wojcikpawel/count.svg) 
+ 
  
  
 </p>
-
-
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
 <p align="center"> 
   <br>

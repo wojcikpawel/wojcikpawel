@@ -12,14 +12,11 @@
 
 ### Hi there 👋
 
--  💼 I'm currently working on something cool! 
--  📚 I'm currently learning with help from [docs.github.com](https://docs.github.com/)
--  💬 Ask me about GitHub
--  ✎ I'm interested in UI/UX design
+-  💼 I'm currently working on my projects
+-  ✎ I'm interested in front-end and back-end programming
 
 ### Hobbies 💡
 - 🚴 Cycling
-- 🏐 Beach Volleyball
 - 💻 Coding & Programming
 - 📚 Books
 

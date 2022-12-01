@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Paul Wojcik!</h1>
+[comment]: <> (<h1 align="center">Hi, I'm Paul Wojcik!</h1>) 
 
 [comment]: <> (<p align="center"><a href="https://app.daily.dev/wojcikpawel"><img src="https://api.daily.dev/devcards/44dff77aebfd48329cf5e04896800f7f.png?r=3hb" width="400" alt="Paweł Wójcik's Dev Card"/></a></p>)
 
@@ -10,7 +10,7 @@
 
 <img src="https://github.com/wojcikpawel/wojcikpawel/blob/master/Images/pw04.jpg">
 
-### Hi there 👋
+### Welcome 👋
 
 -  💼 I'm currently working on my projects
 -  ✎ I'm interested in front-end and back-end programming
@@ -40,14 +40,14 @@
 <br />
 
 
-### My Own Blog - www.pracowniaprogramisty.pl ✍
+### My own blog - www.pracowniaprogramisty.pl ✍
 <a href="https://pracowniaprogramisty.pl/" target="_blank"><img align="left" alt="codeSTACKr.com" width="46px" height="46px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 
 
 <br />
 <br />
 
-### Languages and Tools 🔧
+### Programming languages and tools 🔧
 [comment]: <> (This is a comment, it will not be included)
 
 

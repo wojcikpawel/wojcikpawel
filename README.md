@@ -5,10 +5,10 @@
 
 
 
-<br />
+[comment]: <br />
 
 
-<img src="https://github.com/wojcikpawel/wojcikpawel/blob/master/Images/pw04.jpg">
+[comment]:  <img src="https://github.com/wojcikpawel/wojcikpawel/blob/master/Images/pw04.jpg">
 
 ### Welcome 👋
 
